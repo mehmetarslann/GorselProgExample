@@ -1,0 +1,10 @@
+Algoritma
+CSharp
+Gorsel Programlama
+Programlama
+Veritabanı
+Angular
+HTML
+Javascript
+Kotlin
+Swift

@@ -1,0 +1,9 @@
+Algoritma Uzunluk : 9
+Görsel Programlama Uzunluk : 18
+Veritabanı Uzunluk : 10
+Programlama Uzunluk : 11
+SQL Uzunluk : 3
+MySQL Uzunluk : 5
+PLSQL Uzunluk : 5
+DB2 Uzunluk : 3
+PostreSQL Uzunluk : 9

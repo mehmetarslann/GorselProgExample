@@ -1,0 +1,9 @@
+Algoritma
+Görsel Programlama
+Veritabanı
+Programlama
+SQL
+MySQL
+PLSQL
+DB2
+PostreSQL

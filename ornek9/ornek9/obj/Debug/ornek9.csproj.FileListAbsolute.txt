@@ -1,0 +1,8 @@
+U:\Users\ADMIN\Documents\Visual Studio 2015\Projects\ornek9\ornek9\bin\Debug\ornek9.exe.config
+U:\Users\ADMIN\Documents\Visual Studio 2015\Projects\ornek9\ornek9\bin\Debug\ornek9.exe
+U:\Users\ADMIN\Documents\Visual Studio 2015\Projects\ornek9\ornek9\bin\Debug\ornek9.pdb
+U:\Users\ADMIN\Documents\Visual Studio 2015\Projects\ornek9\ornek9\obj\Debug\ornek9.Form1.resources
+U:\Users\ADMIN\Documents\Visual Studio 2015\Projects\ornek9\ornek9\obj\Debug\ornek9.Properties.Resources.resources
+U:\Users\ADMIN\Documents\Visual Studio 2015\Projects\ornek9\ornek9\obj\Debug\ornek9.csproj.GenerateResource.Cache
+U:\Users\ADMIN\Documents\Visual Studio 2015\Projects\ornek9\ornek9\obj\Debug\ornek9.exe
+U:\Users\ADMIN\Documents\Visual Studio 2015\Projects\ornek9\ornek9\obj\Debug\ornek9.pdb

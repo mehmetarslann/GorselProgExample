@@ -1,0 +1,9 @@
+U:\Users\ADMIN\Documents\Visual Studio 2015\Projects\ORNEK12\ORNEK12\bin\Debug\ORNEK12.exe.config
+U:\Users\ADMIN\Documents\Visual Studio 2015\Projects\ORNEK12\ORNEK12\bin\Debug\ORNEK12.exe
+U:\Users\ADMIN\Documents\Visual Studio 2015\Projects\ORNEK12\ORNEK12\bin\Debug\ORNEK12.pdb
+U:\Users\ADMIN\Documents\Visual Studio 2015\Projects\ORNEK12\ORNEK12\obj\Debug\ORNEK12.Form1.resources
+U:\Users\ADMIN\Documents\Visual Studio 2015\Projects\ORNEK12\ORNEK12\obj\Debug\ORNEK12.Properties.Resources.resources
+U:\Users\ADMIN\Documents\Visual Studio 2015\Projects\ORNEK12\ORNEK12\obj\Debug\ORNEK12.csproj.GenerateResource.Cache
+U:\Users\ADMIN\Documents\Visual Studio 2015\Projects\ORNEK12\ORNEK12\obj\Debug\ORNEK12.exe
+U:\Users\ADMIN\Documents\Visual Studio 2015\Projects\ORNEK12\ORNEK12\obj\Debug\ORNEK12.pdb
+U:\Users\ADMIN\Documents\Visual Studio 2015\Projects\ORNEK12\ORNEK12\obj\Debug\ORNEK12.csprojResolveAssemblyReference.cache
